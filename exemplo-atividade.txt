@@ -1,0 +1,11 @@
+Exemplo de arquivo para a atividade de Git.
+
+Este arquivo foi criado localmente e será enviado ao GitHub por meio da funcionalidade "Drag and drop".
+
+Objetivo:
+- Praticar o envio de arquivos via interface do GitHub.
+- Utilizar branches para organização do código.
+
+Branch: branch-atividade-exemplo
+
+Data de criação: 23/04/2025
