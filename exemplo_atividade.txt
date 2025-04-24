@@ -1,5 +1,0 @@
-Arquivo criado para a atividade 2.2 do curso de Git.
-
-Objetivo: praticar os comandos de linha de comando para adicionar, commitar e enviar arquivos para o repositório remoto via Git.
-
-Autora: Thaís
