@@ -1,4 +1,4 @@
-# 🧪 Atividade Git e GitHub
+dd# 🧪 Atividade Git e GitHub
 
 Este repositório foi criado como parte de uma atividade prática para reforçar conhecimentos sobre **Git** e **GitHub**, incluindo:
 
